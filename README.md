@@ -28,3 +28,12 @@ Vim runs under MS-Windows (NT, 2000, XP, Vista, 7, 8, 10), Macintosh, VMS and
 almost all flavours of UNIX.  Porting to other systems should not be very
 difficult.  Older versions of Vim run on MS-DOS, MS-Windows 95/98/Me, Amiga
 DOS, Atari MiNT, BeOS, RISC OS and OS/2.  These are no longer maintained. (https://github.com/vim/vim)
+
+## How to use
+
+# Create a ".vim" directory
+`mkdir ~/.vim`
+Download all the .zip files and put them into that folder, after that unzip the files.
+
+# Copy the vimrc file to a .vimrc file
+`mv vimrc ~/.vimrc`

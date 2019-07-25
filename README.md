@@ -17,9 +17,7 @@ Vim is a greatly improved version of the good old UNIX editor Vi.  Many new
 features have been added: multi-level undo, syntax highlighting, command line
 history, on-line help, spell checking, filename completion, block operations,
 script language, etc.  There is also a Graphical User Interface (GUI)
-available.  Still, Vi compatibility is maintained, those who have Vi "in the
-fingers" will feel at home.  See `runtime/doc/vi_diff.txt` for differences with
-Vi.
+available.
 
 This editor is very useful for editing programs and other plain text files.
 All commands are given with normal keyboard characters, so those who can type

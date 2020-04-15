@@ -33,7 +33,12 @@ DOS, Atari MiNT, BeOS, RISC OS and OS/2.  These are no longer maintained. (https
 
 # Create a ".vim" directory
 `mkdir ~/.vim`
-Download all the .zip files and put them into that folder, after that unzip the files.
+
+# Download all the .zip files and put them into that folder,
+
+# Unzip all attached directories and move them to a directory .vim
+`mv *.zip ~/.vim/.`
 
 # Copy the vimrc file to a .vimrc file
 `mv vimrc ~/.vimrc`
+
